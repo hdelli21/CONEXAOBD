@@ -55,8 +55,10 @@ Versão 1.1 - Refatoração de código e melhorias (13/11/24).
 
 🖼️ Modelo De Tela
 
-![Captura de tela 2024-11-09 232859](https://github.com/user-attachments/assets/907cbd70-9b32-4805-a6a9-dc7499e4a3fb)![Captura de tela 2024-11-09 232644](https://github.com/user-attachments/assets/4ef1d5ae-4e51-4cf1-b82a-316e7c6c3e6f)
-
+![Captura de tela 2024-11-09 233457](https://github.com/user-attachments/assets/b6156a45-bdd8-4dfe-b689-9b30324dcda3)
+![Captura de tela 2024-11-09 232644](https://github.com/user-attachments/assets/c8665ba2-10ff-407f-8f42-198feb3a3c74)
+![Captura de tela 2024-11-09 232859](https://github.com/user-attachments/assets/d75ebfcf-f611-4dd6-8037-5366e35926e2)
+![Captura de tela 2024-11-09 233400](https://github.com/user-attachments/assets/7265fbde-db12-4386-9944-7a75d342277f)
 
 ✒ Autor
 Henrick Delli Colli Honorato Silva - Atividade individual - JDBC - AC2
