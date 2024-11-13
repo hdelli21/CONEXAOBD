@@ -1,3 +1,4 @@
+
 # Sistema de Gerenciamento de Alunos
 
 Este é um sistema simples em Java para gerenciamento de alunos em um banco de dados MySQL. O projeto permite realizar as seguintes operações:
@@ -54,7 +55,7 @@ Versão 1.1 - Refatoração de código e melhorias (13/11/24).
 
 🖼️ Modelo De Tela
 
-
+![Captura de tela 2024-11-09 232859](https://github.com/user-attachments/assets/907cbd70-9b32-4805-a6a9-dc7499e4a3fb)![Captura de tela 2024-11-09 232644](https://github.com/user-attachments/assets/4ef1d5ae-4e51-4cf1-b82a-316e7c6c3e6f)
 
 
 ✒ Autor
